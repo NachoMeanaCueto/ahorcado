@@ -1,0 +1,45 @@
+Z:\Evaluacion 3\ahorcado\ahorcado\bin\Debug\ahorcado.exe.config
+Z:\Evaluacion 3\ahorcado\ahorcado\bin\Debug\ahorcado.exe
+Z:\Evaluacion 3\ahorcado\ahorcado\bin\Debug\ahorcado.pdb
+Z:\Evaluacion 3\ahorcado\ahorcado\obj\Debug\ahorcado.csprojResolveAssemblyReference.cache
+Z:\Evaluacion 3\ahorcado\ahorcado\obj\Debug\ahorcado.FrmAhorcado.resources
+Z:\Evaluacion 3\ahorcado\ahorcado\obj\Debug\ahorcado.Properties.Resources.resources
+Z:\Evaluacion 3\ahorcado\ahorcado\obj\Debug\ahorcado.csproj.GenerateResource.Cache
+Z:\Evaluacion 3\ahorcado\ahorcado\obj\Debug\ahorcado.exe
+Z:\Evaluacion 3\ahorcado\ahorcado\obj\Debug\ahorcado.pdb
+C:\Users\Nacho\Desktop\ahorcado\ahorcado\bin\Debug\ahorcado.exe.config
+C:\Users\Nacho\Desktop\ahorcado\ahorcado\obj\Debug\ahorcado.exe
+C:\Users\Nacho\Desktop\ahorcado\ahorcado\obj\Debug\ahorcado.pdb
+C:\Users\Nacho\Desktop\ahorcado\ahorcado\bin\Debug\ahorcado.exe
+C:\Users\Nacho\Desktop\ahorcado\ahorcado\bin\Debug\ahorcado.pdb
+C:\Users\Nacho\Desktop\ahorcado\ahorcado\obj\Debug\ahorcado.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\ahorcado\ahorcado\obj\Debug\ahorcado.FrmAhorcado.resources
+C:\Users\Nacho\Desktop\ahorcado\ahorcado\obj\Debug\ahorcado.Properties.Resources.resources
+C:\Users\Nacho\Desktop\ahorcado\ahorcado\obj\Debug\ahorcado.csproj.GenerateResource.Cache
+C:\Users\Nacho\Desktop\ahorcado\ahorcado\obj\Debug\ahorcado.FrmWin.resources
+C:\Users\Nacho\Desktop\ahorcado\ahorcado\obj\Debug\ahorcado.FrmPerder.resources
+C:\Users\Nacho\Desktop\ahorcado\ahorcado\obj\Debug\ahorcado.FrmBienvenida.resources
+C:\Users\Nacho\Desktop\DAM\Dam 1\Programacion\ahorcado\ahorcado\bin\Debug\ahorcado.exe.config
+C:\Users\Nacho\Desktop\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.exe
+C:\Users\Nacho\Desktop\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.pdb
+C:\Users\Nacho\Desktop\DAM\Dam 1\Programacion\ahorcado\ahorcado\bin\Debug\ahorcado.exe
+C:\Users\Nacho\Desktop\DAM\Dam 1\Programacion\ahorcado\ahorcado\bin\Debug\ahorcado.pdb
+C:\Users\Nacho\Desktop\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.FrmAhorcado.resources
+C:\Users\Nacho\Desktop\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.FrmBienvenida.resources
+C:\Users\Nacho\Desktop\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.FrmPerder.resources
+C:\Users\Nacho\Desktop\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.FrmWin.resources
+C:\Users\Nacho\Desktop\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.Properties.Resources.resources
+C:\Users\Nacho\Desktop\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.csproj.GenerateResource.Cache
+E:\DAM\Dam 1\Programacion\ahorcado\ahorcado\bin\Debug\ahorcado.exe.config
+E:\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.exe
+E:\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.pdb
+E:\DAM\Dam 1\Programacion\ahorcado\ahorcado\bin\Debug\ahorcado.exe
+E:\DAM\Dam 1\Programacion\ahorcado\ahorcado\bin\Debug\ahorcado.pdb
+E:\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.csprojResolveAssemblyReference.cache
+E:\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.FrmAhorcado.resources
+E:\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.FrmBienvenida.resources
+E:\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.FrmPerder.resources
+E:\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.FrmWin.resources
+E:\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.Properties.Resources.resources
+E:\DAM\Dam 1\Programacion\ahorcado\ahorcado\obj\Debug\ahorcado.csproj.GenerateResource.Cache
